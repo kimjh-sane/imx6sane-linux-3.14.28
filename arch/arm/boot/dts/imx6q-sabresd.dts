@@ -16,7 +16,7 @@
 #include "imx6qdl-sabresd.dtsi"
 
 / {
-	model = "Freescale i.MX6 Quad Sane Board";
+	model = "Freescale i.MX6 Quad Sane Board Test";
 	compatible = "fsl,imx6q-sabresd", "fsl,imx6q";
 };
 
